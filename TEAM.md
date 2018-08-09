@@ -1,14 +1,3 @@
-## Founder
+Justin Sun is a well-known millennial entrepreneur in China, and enjoyed great success with the CallMe mobile app, a Chinese voice livestreaming social network. The app is one of the most popular amongst Chinese millennials. The project garnered support from many top investors from the US and China, including Sequoia Capital, IDG, and China Equity, raising eight-figures in funding.
 
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Justin Sun launched his blockchain project TRON in July 2017. TRON is dedicated to building the infrastructure for a decentralized Internet. The project has members in various countries and regions across the globe, including Beijing, San Francisco, Seoul, and Tokyo. The team is now more than 200 strong, with tech talent from Facebook, Alibaba, Tencent, Baidu, and other famous Internet companies passionate about blockchain.
