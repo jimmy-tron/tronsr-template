@@ -1,14 +1,1 @@
-## Founder
-
-Name: [name]
-Role: [role]
-
-## Team Member 1
-
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+The Tronscan team is a blockchain welfare foundation located in Malta. The team has been actively participating in building the TRON ecosystem, with over 30 team members all over the world, most of whom are developers and operations staff. In the future, Tronscan will integrate its own development with that of the TRON ecosystem, dedicating to develop TRON-based DApps at the same time. 
